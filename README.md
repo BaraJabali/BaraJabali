@@ -33,7 +33,8 @@ Here are some ideas to get you started:
 
 - 👋 Hi, I’m Bara Jabali
 - 👀 I’m interested in Technology and Astronomy
-- 🌱 I’m currently learning to be a fullstack developer
+- 💻 I am currently learning Flutter 
+- 🌱 Learnt the basic about Front-End development
 - 📫 How to reach me Bara-jabale@outlook.com
 <br />
 
