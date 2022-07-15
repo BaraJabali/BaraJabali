@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 
 
 - 👋 Hi, I’m Bara Jabali
+- 😎 A Trainee in Exalt Company
 - 👀 I’m interested in Technology and Astronomy
 - 💻 I am currently learning Flutter 
 - 🌱 Learnt the basic about Front-End development
