@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🌱 I am currently focusing on learning DSA and Flutter
 - 💁‍♂️ I am also working as a TA at Birzeit unversity
 - 😎 Further more, I am teaching over 50 people how to code this summer!
-- ⚡ Fun fact: Sometimes I LOVE to code 24/7
+- ⚡ Fun fact: Sometimes I LOVE to code 24/7h
 -->
 <h1>About Me 📌</h1>
 
